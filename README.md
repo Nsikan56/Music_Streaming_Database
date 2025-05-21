@@ -16,7 +16,6 @@ A fully normalized relational database schema and Python-powered CRUD system des
 - 🔍 *Advanced SQL Queries* to simulate real-world use cases
 - ✅ *Test Cases* validating database functionality
 - 📄 *Professional Project Summary PDF* with visuals
-- 📸 *Custom Banner* for presentation flair
 
 ---
 
